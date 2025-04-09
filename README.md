@@ -5,3 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgostinhoAlves15&layout=compact&hide=scss,c,processing&langs_count=5&theme=dark"/>
   <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
+<div align="center">
+  <img src="https://github.com/AgostinhoAlves15/AgostinhoAlves15/blob/output/github-snake-dark.svg" alt="Snake animation">
+</div>
