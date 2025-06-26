@@ -27,6 +27,20 @@ I work with:
   </a>
 </p>
 
+<!-- Novo bloco azul com estatísticas -->
+<p align="center">
+  <img
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=AgostinhoAlves15&theme=blue-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    width="48%"
+    alt="AgostinhoAlves15 github-readme-stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=AgostinhoAlves15&theme=blue-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    width="48%"
+    alt="AgostinhoAlves15 github-readme-stats"
+  />
+</p>
+
 <p align="center">
   <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
