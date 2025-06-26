@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FFFFFF&width=600&lines=HELLO,+MY+NAME+is+Agostinho+Alves+;I'm+17+years+old;I+am+from+Brasil,+CE;I work with:)](https://git.io/typing-svg)
 
 
+
 ### Trabalho com:
 
 <!-- Ícones alinhados horizontalmente -->
