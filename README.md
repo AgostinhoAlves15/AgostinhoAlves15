@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
 
-<h2>Olá! Eu sou o Agostinho Alves</h2>
-<hr>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=36&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Agostinho+Alves+;I'm+17+years+old;I+am+from+Brasil,+CE;I work with:)](https://git.io/typing-svg)
+<br>
 <h3>Trabalho com:</h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table color=4B0082 align="center">
