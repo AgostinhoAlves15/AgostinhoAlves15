@@ -1,8 +1,10 @@
 <!-- Header azul -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header" />
 
-<!-- Texto animado estável -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FFFFFF&width=600&lines=HELLO,+MY+NAME+is+Agostinho+Alves+;I'm+17+years+old;I+am+from+Brasil,+CE;I work with:)](https://git.io/typing-svg)
+# HELLO, MY NAME IS Agostinho Alves  
+I'm 17 years old  
+I am from Brasil, CE  
+I work with:
 
 ### Trabalho com:
 
