@@ -1,14 +1,11 @@
-<!-- Header com a faixa azul -->
+<!-- Header azul -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header" />
 
-<!-- Texto animado (Typing SVG) -->
+<!-- Texto animado estável -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FFFFFF&width=600&lines=HELLO,+MY+NAME+is+Agostinho+Alves+;I'm+17+years+old;I+am+from+Brasil,+CE;I work with:)](https://git.io/typing-svg)
-
-
 
 ### Trabalho com:
 
-<!-- Ícones alinhados horizontalmente -->
 <p align="center">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
@@ -19,7 +16,6 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
 </p>
 
-<!-- Estatísticas do GitHub -->
 <p align="center">
   <a href="https://github.com/AgostinhoAlves15" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgostinhoAlves15&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -29,7 +25,6 @@
   </a>
 </p>
 
-<!-- Citação -->
 <p align="center">
   <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
