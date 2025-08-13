@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=36&center=true&vCenter=true&width=1000&lines=OL%C3%81,+MEU+NOME+%C3%89+Agostinho+Alves;Sou+desenvolvedor+front-end;Moro+em+Fortaleza,+CE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=36&center=true&vCenter=true&width=1000&lines=OL%C3%81,+MEU+NOME+%C3%89+Agostinho+Alves;Sou+desenvolvedor+front-end;Moro+em+Fortaleza,+CE)](https://git.io/typing-svg)
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -37,34 +37,35 @@
 </table>
 </div>
 
+<br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgostinhoAlves15&theme=dark&hide_border=true&layout=compact" width="50%" alt="AgostinhoAlves15 github-readme-stats"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgostinhoAlves15&theme=synthwave&hide_border=true&layout=compact&title_color=4169E1&text_color=FFFFFF&icon_color=4169E1" width="50%" alt="Top Languages"/>
 </p>
 
 
 <p align="center">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=AgostinhoAlves15&theme=dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="AgostinhoAlves15 github-readme-stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AgostinhoAlves15&theme=dark&hide_border=true"  width="48%" alt="AgostinhoAlves15 github-readme-stats"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=AgostinhoAlves15&theme=synthwave&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=4169E1&text_color=FFFFFF&icon_color=4169E1" width="48%" alt="AgostinhoAlves15 github-readme-stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AgostinhoAlves15&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=4169E1&fire=4169E1&currstreak=4169E1" width="48%" alt="AgostinhoAlves15 github-readme-stats"/>
 </p>
 
 
 <p align="center">
-  <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" />
 </p>
 
-
-<h3 align='center'><i>Redes Sociais</i></h3>
+<h3 align='center'><i><font color="#4169E1">Redes Sociais</font></i></h3>
 <div align='center'>
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a target="_blank" href="https://instagram.com/agostinho.67"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="60" alt="Instagram"></a>
+        <a target="_blank" href="https://instagram.com/agostinho.67"><img src="https://cdn.simpleicons.org/instagram" width="60" alt="Instagram" /></a>
     </td>
     <td align='center' width="60">
-        <a target="_blank" href="https://www.linkedin.com/in/agostinho-alves-8b319934a/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60" alt="LinkedIn"></a>
+        <a target="_blank" href="https://www.linkedin.com/in/agostinho-alves-8b319934a/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="60" alt="LinkedIn" /></a>
     </td>
     <td align='center' width="60">
-        <a target="_blank" href="mailto:aalvesdeoliveirafilho1@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="60" alt="Email"></a>
+        <a target="_blank" href="mailto:aalvesdeoliveirafilho1@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="60" alt="Email" /></a>
     </td>
 </tr>
 </table>
